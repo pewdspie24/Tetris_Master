@@ -1,0 +1,38 @@
+Player 1
+1000
+Player 2
+800
+Player 3
+600
+Player 4
+500
+Player 5
+400
+Player 6
+300
+Player 7
+200
+Player 8
+100
+Player 9
+50
+Player 10
+0
+Tran DQ
+100
+Quoc
+100
+quang
+0
+kj
+0
+mm
+0
+kjsd
+0
+aslfko
+0
+Quang
+0
+Quang
+0
