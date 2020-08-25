@@ -31,6 +31,6 @@ Navigate to the folder where all the game information is stored in CMD or Termin
 ## Built With
 * [PyGame](http://www.pygame.org/news) - The Python Library I used
 
-* [JetBrain PyCharm CE](https://www.jetbrains.com/pycharm/) - The IDE I used. Highly recommended as opposed to the regular shell.
+* [Visual Studio Code](https://code.visualstudio.com/) - The Editor I used. Highly recommended as opposed to the regular shell.
 
 * [Python 3](https://www.python.org/downloads/) - Duh.
